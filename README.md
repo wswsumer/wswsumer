@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=hi;be+welcome)](https://git.io/typing-svg)
 
 <div align="center">  
-<p>🖥️  java dev intern - 📕 Systems analysis and development 0/6 </p>
+<p>🖥️  java dev intern - 📕 Software Engineer 0/4 </p>
 </div>
 
 ------------------------------------------------------------------
